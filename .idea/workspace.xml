@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dc302b3-06c2-4331-bd04-2db8eb37c2d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jade.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarTrading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Buyer/BuyerAgent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seller/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seller/SellerAgent.java" afterDir="false" />
+    <list default="true" id="2dc302b3-06c2-4331-bd04-2db8eb37c2d3" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/src/Seller/Seller.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/buyer/Buyer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APDescription.txt" beforeDir="false" afterPath="$PROJECT_DIR$/APDescription.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MTPs-Main-Container.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MTPs-Main-Container.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Buyer/BuyerAgent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seller/SellerAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seller/SellerAgent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -83,25 +80,32 @@
       <updated>1671980138562</updated>
       <workItem from="1671980139280" duration="5573000" />
       <workItem from="1671985902029" duration="7000" />
-      <workItem from="1672037967078" duration="4990000" />
+      <workItem from="1672037967078" duration="10901000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1672047980548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672047980548</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Seller/SellerAgent.java</url>
-          <line>96</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Seller/SellerAgent.java</url>
-          <line>88</line>
-          <option name="timeStamp" value="14" />
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/buyer/Buyer.kt</url>
+          <line>85</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -18,7 +18,7 @@ public class SellerAgent extends Agent {
     private GUI myGui;
 
     protected void setup() {
-        catalogue = new Hashtable<Integer, Hashtable<Integer, Integer>>();
+        catalogue = new Hashtable<>();
 
         myGui = new GUI(this);
         myGui.showGui();
